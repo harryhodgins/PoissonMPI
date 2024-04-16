@@ -40,7 +40,7 @@ sbatch poisson.sh
 To make use of gnuplot script, gnuplot must be installed, and then the following command can be used in the terminal:
 gnuplot heatmap.gp
 
-## Acknoledgement
+## Acknowledgement
 The seagull and chuck clusters used for this program are managed and maintained by Research IT.
 Information is available at the link below:
 
